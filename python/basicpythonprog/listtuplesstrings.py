@@ -4,3 +4,6 @@ print(list1)
 
 tuple1=(("billu","ishika"),"mani",2.22,1)
 print(tuple1)
+
+dict1={"billu":"billi","age":20,"billu":True}
+print(dict1)
