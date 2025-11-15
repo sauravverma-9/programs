@@ -12,5 +12,4 @@ int main()
     } //is true
         printf("HIGHEST FACTOR OF GIVEN NUMBER IS : %d",hf);
         return 0;
-//  } is galat
-}
+} 
