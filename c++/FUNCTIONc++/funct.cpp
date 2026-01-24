@@ -2,7 +2,7 @@
 using namespace std;
 
 void printName(char name[]){
-    cout << "Hello " << name <<"\n" << "How can i assist you !";
+    cout << "Hello! " << name <<"\n" << "How can i assist you !";
 
 }
 
